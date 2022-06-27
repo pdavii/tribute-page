@@ -25,6 +25,7 @@ header .subtitle {
     margin-top: 10px;
     font-size: 13px;
     text-transform: uppercase;
+    text-align: center;
 }
 #principal {
     display: flex;
